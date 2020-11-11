@@ -1,0 +1,13 @@
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.exe
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.deps.json
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.runtimeconfig.json
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.runtimeconfig.dev.json
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.dll
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\bin\Debug\netcoreapp3.1\BIM313-HW1.pdb
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.csprojAssemblyReference.cache
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.AssemblyInfoInputs.cache
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.AssemblyInfo.cs
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.csproj.CoreCompileInputs.cache
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.dll
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.pdb
+C:\Users\son_a\source\repos\BIM313-HW1\BIM313-HW1\obj\Debug\netcoreapp3.1\BIM313-HW1.genruntimeconfig.cache
