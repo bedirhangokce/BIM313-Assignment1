@@ -1,0 +1,15 @@
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.exe
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.deps.json
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.runtimeconfig.json
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.runtimeconfig.dev.json
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.dll
+C:\Users\son_a\source\repos\Lab-6\Lab-6\bin\Debug\netcoreapp3.1\Lab-6.pdb
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.csprojAssemblyReference.cache
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab_6.Form1.resources
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.csproj.GenerateResource.cache
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.AssemblyInfoInputs.cache
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.AssemblyInfo.cs
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.csproj.CoreCompileInputs.cache
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.dll
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.pdb
+C:\Users\son_a\source\repos\Lab-6\Lab-6\obj\Debug\netcoreapp3.1\Lab-6.genruntimeconfig.cache
